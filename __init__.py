@@ -1,3 +1,1 @@
-__all__ = ['LineApi', 'LineThrift']
-
-from .LineApi.LineClient import LineClient
+__all__ = ['ChannelApplicationProvidedService', 'ChannelService', 'constants', 'MessageService', 'TalkService', 'ttypes']
